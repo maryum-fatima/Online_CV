@@ -3,8 +3,8 @@
 #### Technical Skills: SQL, PowerBI, Tableau, Excel, Google Sheets
 
 ## Education
-- Google Data Analytics Professional Certification | Coursera (Sept 2023)
-- B.E Biomedical Engineering | NED University of Engineering & Technology (Oct 2022)								       		
+- Google Data Analytics Professional Certification | Coursera (_Sept 2023_)
+- B.E Biomedical Engineering | NED University of Engineering & Technology (_Oct 2022_)								       		
 
 ## Work Experience
 **Research Analyst @ AsSammak Farm (SMC-Private) Limited (_Jan 2021 - Sept 2021_)**
@@ -31,11 +31,8 @@ For the data cleaning, analysis and visualization, I used Microsoft Power BI. I 
 ![Sales Dashboard](/assets/sales_insights.PNG)
 
 ### Sales Insights Data Analysis Project - Atliq Hardware
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 This project is based on a computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build power BI dashboard that can give him real time sales insights. These records are stored in mysql database. Power BI is plugged to this database to pull necessary information required for data analysis. The database has all sales transactions, customers, products and markets information. I analyzed this database and than hook it up with power BI. In power BI, I performed ETL and data cleaning operations (currency normalization, handling invalid values etc) to make it ready so that I can build our dashboard. I performed valuable insights using mySQL and Power BI to discover customer behavior, identify patterns, and make data-driven recommendations to improve company sales strategies.
 
-
-
-![Bike Study](/assets/img/bike_study.jpeg)
+![Atliq Hardware](/assets/atliq_dashboard.PNG)
 
