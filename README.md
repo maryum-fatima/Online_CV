@@ -3,8 +3,8 @@
 #### Technical Skills: SQL, PowerBI, Tableau, Excel, Google Sheets
 
 ## Education
-- Google Data Analytics Professional Certification | Coursera (_Sept 2023_)
-- B.E., Biomedical Engineering | NED University of Engineering & Technology (_Oct 2022_)								       		
+- Google Data Analytics Professional Certification | Coursera (Sept 2023)
+- B.E Biomedical Engineering | NED University of Engineering & Technology (Oct 2022)								       		
 
 ## Work Experience
 **Research Analyst @ AsSammak Farm (SMC-Private) Limited (_Jan 2021 - Sept 2021_)**
