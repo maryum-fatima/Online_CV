@@ -28,7 +28,7 @@ Assessment Questions are:
 
 For the data cleaning, analysis and visualization, I used Microsoft Power BI. I submitted my assessment as an interactive dashboard on Github.
 
-![Sales Dashboard](/assets/sales_insights.png)
+![Sales Dashboard](/assets/sales_insights.PNG)
 
 ### Sales Insights Data Analysis Project - Atliq Hardware
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
