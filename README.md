@@ -28,7 +28,7 @@ Assessment Questions are:
 
 For the data cleaning, analysis and visualization, I used Microsoft Power BI. I submitted my assessment as an interactive dashboard on Github.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Sales Dashboard](/assets/sales_insights.png)
 
 ### Sales Insights Data Analysis Project - Atliq Hardware
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
