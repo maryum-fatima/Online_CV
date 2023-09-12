@@ -1,12 +1,11 @@
 # Data Analyst
+#### Technical Skills: SQL, R, PowerBI, Tableau, Excel, Google Sheets
 
 ## About
 I'm Maryum Fatima, a curious mind with a BE degree in biomedical engineering from NED University. However, my true passion lies in the world of Data Analytics. I thrive on unraveling complex insights from intricate data threads, transforming information into impactful decisions. Join me on this exciting journey of merging science with analytics!
 
 ## Mission
 My mission as a data analyst is to leverage my analytical skills and passion for data to provide valuable insights and solutions to organizations. As data is the primary asset to any business, where my priority is to help clients make optimum business decisions and for this I am dedicated to continuously expanding my knowledge, honing my data analysis techniques, and staying updated with the latest tools and technologies.
-
-#### Technical Skills: SQL, R, PowerBI, Tableau, Excel, Google Sheets
 
 ## Projects
 ### Sales Insights Data Analysis Project - Atliq Hardware
@@ -42,19 +41,18 @@ For the data cleaning, manipulation, analysis and visualization, I used Microsof
 ![Sales Dashboard](/assets/supermarket_sales.PNG)
 
 ## Education
-![Sales Dashboard](/assets/edu_icon.png)
+![Icon](/assets/edu_icon.png)
 - B.E Biomedical Engineering | NED University of Engineering & Technology (_Oct 2022_)
 - Intermediate - Pre-engineering (_May 2018_)
 - Matriculation - Biology (Science) (_Apr 2016_)
 
-![Sales Dashboard](/assets/course_icon.jpg)
+![Icon](/assets/course_icon.jpg)
 - Google Data Analytics Professional Certification | Coursera (_Sept 2023_)
 - Data Analysis & Business Intelligence | DigiSkills.pk	(_Sept 2023_)					       		
 
-## Employment History ![Sales Dashboard](/assets/employment_icon.png)
+## Employment History 
+![Icon](/assets/employment_icon.png)
 **Research Analyst @ AsSammak Farm (SMC-Private) Limited (_Jan 2021 - Sept 2021_)**
 - Prepared 20+ detailed reports and provided recommendations.
 - Assisted in 2 research project implementations and helped the company to successfully build biofloc and aquaponics setup.
 - Effectively communicated various aquaponics procedures to stakeholders, resulting in a 15% increase in productivity.
-
-#### Soft Skills: Time management, Teamwork, Storytelling, Attention to detail, Communication, and Active listening.
