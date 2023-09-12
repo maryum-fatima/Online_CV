@@ -13,7 +13,7 @@
 - Effectively communicated various aquaponics procedures to stakeholders, resulting in a 15% increase in productivity.
 
 ## Projects
-### Supermarket Sales Insights
+### Supermarket Sales Insights Dashboard
 
 It is a Sales Data Analysis assessment prepared by Intern2Grow, for its Data Analyst Virtual Internship Program. The objective is to use data analysis skills to answer the questions and present all the findings in a clear and concise manner. The dataset that provided to me was a CSV file called sales_data.csv. It contains information about sales made by a fictional company over the course of a year. It contains attributes such as date, product, category, price, and quantity. I cleaned the data provided in the CSV file. 
 
@@ -28,7 +28,7 @@ Assessment Questions are:
 
 For the data cleaning, analysis and visualization, I used Microsoft Power BI. I submitted my assessment as an interactive dashboard on Github.
 
-![Sales Dashboard](/assets/sales_insights.PNG)
+![Sales Dashboard](/assets/supermarket_sales.PNG)
 
 ### Sales Insights Data Analysis Project - Atliq Hardware
 
