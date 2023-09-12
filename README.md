@@ -41,25 +41,21 @@ For the data cleaning, manipulation, analysis and visualization, I used Microsof
 ![Sales Dashboard](/assets/supermarket_sales.PNG)
 
 ## Education
-<p align="center">
-// ![Icon](/assets/edu_icon.png)
-</p>
+![Icon](/assets/edu_icon.png)
 - B.E Biomedical Engineering | NED University of Engineering & Technology (_Oct 2022_)
 - Intermediate | Pre-engineering (_May 2018_)
 - Matriculation | Biology (Science) (_Apr 2016_)
 
-<p align="center">
-// ![Icon](/assets/course_icon.jpg)
-</p>
+## Certifications
+![Icon](/assets/course_icon.jpg)
 - Google Data Analytics Professional Certification | Coursera (_Sept 2023_)
 - Data Analysis & Business Intelligence | DigiSkills.pk	(_Sept 2023_)					       		
 
 ## Employment History 
-<p align="center">
-// ![Icon](/assets/employment_icon.png)
-</p>
+![Icon](/assets/employment_icon.png)
 
-Research Analyst | AsSammak Farm (SMC-Private) Limited (_Jan 2021 - Sept 2021_)
+
+*Research Analyst @ AsSammak Farm (SMC-Private) Limited (_Jan 2021 - Sept 2021_)*
 - Prepared 20+ detailed reports and provided recommendations.
 - Assisted in 2 research project implementations and helped the company to successfully build biofloc and aquaponics setup.
 - Effectively communicated various aquaponics procedures to stakeholders, resulting in a 15% increase in productivity.
